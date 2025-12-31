@@ -57,7 +57,6 @@ with gr.Blocks() as demo:
     
     #output the predicted class and the probability
     output = gr.Label(num_top_classes=2, label="Predicted Class")
-    output_probability = gr.Number(label="Probability")
 
     #when the user uploads an image or sketches a doodle, predict the class
     img_upload_button.click(predict, inputs=img_upload, outputs=output)

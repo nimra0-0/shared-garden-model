@@ -22,14 +22,14 @@ The goal is simple: train and export an image classifier that can distinguish be
 
 The model is trained on **hand-drawn sketches** from Google’s **QuickDraw dataset** and exported for easy reuse in future apps or demos(stay tuned — a fun interactive app is coming soon 👀).
 
-For details on training and experimentation, see: <TK>
+For details on training and experimentation, see(The notebook is still in draft so proceed with caution): [Kaggle Notebook](https://www.kaggle.com/code/nimra00/is-it-a-flower-doodle-edition)
 
 ---
 
 ## 🚀 Live Demo
 
 👉 **Try it on Hugging Face Spaces:**  
-**🔗 https://huggingface.co/spaces/<your-username>/<your-space-name>**
+**🔗 https://huggingface.co/spaces/N0-0/shared-garden**
 
 _(Draw a doodle or upload an image and see if the model thinks it’s a flower 🌸)_
 
