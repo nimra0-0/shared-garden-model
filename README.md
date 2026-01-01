@@ -1,5 +1,5 @@
 ---
-title: Shared Garden
+title: Flower or Not
 emoji: 🌸
 colorFrom: blue
 colorTo: green
@@ -10,7 +10,7 @@ pinned: false
 python_version: "3.12"
 ---
 
-# 🪴 Shared Garden (Model)
+# 🪴 Flower or Not ??
 
 Ever wondered if a neural network can tell whether your doodle is a flower… or just chaotic squiggles? 🌸✏️
 This repository contains the code (and a trained model) that does exactly that.
@@ -29,7 +29,7 @@ For details on training and experimentation, see(The notebook is still in draft 
 ## 🚀 Live Demo
 
 👉 **Try it on Hugging Face Spaces:**  
-**🔗 https://huggingface.co/spaces/N0-0/shared-garden**
+**🔗 https://huggingface.co/spaces/N0-0/flower-or-not**
 
 _(Draw a doodle or upload an image and see if the model thinks it’s a flower 🌸)_
 
@@ -65,7 +65,7 @@ _(Draw a doodle or upload an image and see if the model thinks it’s a flower �
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/nimra0-0/shared-garden-model.git
+git clone https://github.com/nimra0-0/flower-or-not.git
 
 ```
 
@@ -102,7 +102,7 @@ or whatever the terminal points to
 
 ### Background
 
-**Shared Garden** started as a small, simple yet playful CV project inspired by **fastai Lesson 1 and 2**. I built it as a way to revisit and solidify the fundamentals of image classification, but now i have even more ideas on how to make it grow into a lush virual garden. so stay tuned for more...
+**Flower or Not?** started as a small, simple yet playful CV project inspired by **fastai Lesson 1 and 2**. I built it as a way to revisit and solidify the fundamentals of image classification, but now i have even more ideas on how to make it grow into a lush virual garden. so stay tuned for more...
 
 ---
 

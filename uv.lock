@@ -2155,7 +2155,7 @@ wheels = [
 ]
 
 [[package]]
-name = "shared-garden-model"
+name = "flower-or-not"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

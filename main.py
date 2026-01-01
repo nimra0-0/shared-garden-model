@@ -1,5 +1,5 @@
 def main():
-    print("Hello from shared-garden-model!")
+    print("Hello from flower-or-not!")
 
 
 if __name__ == "__main__":
